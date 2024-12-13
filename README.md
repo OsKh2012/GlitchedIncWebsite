@@ -1,1 +1,2 @@
 # GlitchedIncWebsite
+This website was made for our book... We want suggestions. It is in its early stages, and currently the book is free, and is not meant for adults, but I guess anyone can read it. Add an issue if there is something you dislike. If you want to develop with me, we are using the code hs editor since it has a free domain. And leave pull requests before adding the changes. Also, add snapshots. These should be the very basics of GitHub. If me and the other co-developer agree, we will merge it. If you want to work with us, add an issue I guess,
